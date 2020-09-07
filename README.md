@@ -1,0 +1,2 @@
+# GoldMine
+GoldMine Sample
